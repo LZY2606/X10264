@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BytecodeVerifier.Core/BytecodeVerifier.Core.csproj" />
+    <Project Path="src/BytecodeVerifier.Storage/BytecodeVerifier.Storage.csproj" />
+    <Project Path="src/BytecodeVerifier.Web/BytecodeVerifier.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BytecodeVerifier.Core.Tests/BytecodeVerifier.Core.Tests.csproj" />
+    <Project Path="tests/BytecodeVerifier.Storage.Tests/BytecodeVerifier.Storage.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/BytecodeVerifier.FixtureGen/BytecodeVerifier.FixtureGen.csproj" />
+  </Folder>
+</Solution>
