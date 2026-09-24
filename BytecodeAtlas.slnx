@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BytecodeAtlas/BytecodeAtlas.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BytecodeAtlas.Tests/BytecodeAtlas.Tests.csproj" />
+  </Folder>
+</Solution>
