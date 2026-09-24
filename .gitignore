@@ -34,3 +34,14 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# --- .NET / C# ---
+bin/
+obj/
+*.user
+*.suo
+TestResults/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
