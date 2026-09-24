@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JvmVerifier/JvmVerifier.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JvmVerifier.Tests/JvmVerifier.Tests.csproj" />
+  </Folder>
+</Solution>
