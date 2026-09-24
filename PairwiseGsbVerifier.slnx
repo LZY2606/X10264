@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Verifier.Core/Verifier.Core.csproj" />
+    <Project Path="src/Verifier.Storage/Verifier.Storage.csproj" />
+    <Project Path="src/Verifier.Web/Verifier.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Verifier.Tests/Verifier.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/Verifier.CasePack/Verifier.CasePack.csproj" />
+  </Folder>
+</Solution>
