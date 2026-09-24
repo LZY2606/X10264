@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BytecodeVerifier/BytecodeVerifier.csproj" />
+    <Project Path="src/VerifierWeb/VerifierWeb.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Verifier.Tests/Verifier.Tests.csproj" />
+  </Folder>
+</Solution>
