@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JvmSealLab/JvmSealLab.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JvmSealLab.Tests/JvmSealLab.Tests.csproj" />
+  </Folder>
+</Solution>
