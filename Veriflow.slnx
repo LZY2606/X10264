@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Veriflow.Web/Veriflow.Web.csproj" />
+    <Project Path="src/Veriflow/Veriflow.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Veriflow.Tests/Veriflow.Tests.csproj" />
+  </Folder>
+</Solution>
