@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JvmBc.Core/JvmBc.Core.csproj" />
+    <Project Path="src/JvmBc.Storage/JvmBc.Storage.csproj" />
+    <Project Path="src/JvmBc.Verifier/JvmBc.Verifier.csproj" />
+    <Project Path="src/JvmBc.Web/JvmBc.Web.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/JvmBc.Tests/JvmBc.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/JvmBc.FixtureGen/JvmBc.FixtureGen.csproj" />
+  </Folder>
+</Solution>
