@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Jbcv.Core/Jbcv.Core.csproj" />
+    <Project Path="src/Jbcv.Storage/Jbcv.Storage.csproj" />
+    <Project Path="src/Jbcv.Web/Jbcv.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Jbcv.Tests/Jbcv.Tests.csproj" />
+  </Folder>
+</Solution>
