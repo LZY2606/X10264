@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JvmCore/JvmCore.csproj" />
+    <Project Path="src/JvmStorage/JvmStorage.csproj" />
+    <Project Path="src/JvmWeb/JvmWeb.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JvmCore.Tests/JvmCore.Tests.csproj" />
+  </Folder>
+</Solution>
