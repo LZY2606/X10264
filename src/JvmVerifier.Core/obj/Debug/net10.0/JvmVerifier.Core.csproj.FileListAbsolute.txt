@@ -1,0 +1,5 @@
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1237/runs/B/work/src/JvmVerifier.Core/obj/Debug/net10.0/JvmVerifier.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1237/runs/B/work/src/JvmVerifier.Core/obj/Debug/net10.0/JvmVerifier.Core.AssemblyInfoInputs.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1237/runs/B/work/src/JvmVerifier.Core/obj/Debug/net10.0/JvmVerifier.Core.AssemblyInfo.cs
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1237/runs/B/work/src/JvmVerifier.Core/obj/Debug/net10.0/JvmVerifier.Core.csproj.CoreCompileInputs.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1237/runs/B/work/src/JvmVerifier.Core/obj/Debug/net10.0/JvmVerifier.Core.sourcelink.json
