@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BytecodeChamber.Core/BytecodeChamber.Core.csproj" />
+    <Project Path="src/BytecodeChamber.Store/BytecodeChamber.Store.csproj" />
+    <Project Path="src/BytecodeChamber.Web/BytecodeChamber.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BytecodeChamber.Tests/BytecodeChamber.Tests.csproj" />
+  </Folder>
+</Solution>
