@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/JvmVerifier/JvmVerifier.csproj" />
+  <Project Path="tests/JvmVerifier.Tests/JvmVerifier.Tests.csproj" />
+</Solution>
