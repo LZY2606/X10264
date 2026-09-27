@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Jvm.Core/Jvm.Core.csproj" />
+    <Project Path="src/Jvm.Store/Jvm.Store.csproj" />
+    <Project Path="src/Jvm.Web/Jvm.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Jvm.Tests/Jvm.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/FixtureGen/FixtureGen.csproj" />
+  </Folder>
+</Solution>
