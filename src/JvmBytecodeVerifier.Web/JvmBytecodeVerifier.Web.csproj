@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>JvmBytecodeVerifier.Web</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\JvmBytecodeVerifier.Core\JvmBytecodeVerifier.Core.csproj" />
+    <ProjectReference Include="..\JvmBytecodeVerifier.Storage\JvmBytecodeVerifier.Storage.csproj" />
+  </ItemGroup>
+</Project>
