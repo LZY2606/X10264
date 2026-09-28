@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="JvmVerifier.Core/JvmVerifier.Core.csproj" />
+  <Project Path="JvmVerifier.Storage/JvmVerifier.Storage.csproj" />
+  <Project Path="JvmVerifier.Tests/JvmVerifier.Tests.csproj" />
+  <Project Path="JvmVerifier.Web/JvmVerifier.Web.csproj" />
+</Solution>
