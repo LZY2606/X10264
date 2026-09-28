@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BytecodeSeal.Core/BytecodeSeal.Core.csproj" />
+    <Project Path="src/BytecodeSeal.Web/BytecodeSeal.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BytecodeSeal.Tests/BytecodeSeal.Tests.csproj" />
+  </Folder>
+</Solution>
